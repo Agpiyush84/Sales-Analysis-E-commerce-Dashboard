@@ -90,10 +90,3 @@ _A few snapshots from the visual EDA are included in the Jupyter Notebook. Use t
 **Piyush Agarwal**  
 📧 agpiyush84@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/agpiyush84/)
-
----
-
-## 📌 Note
-
-This project is meant for educational and portfolio purposes, showcasing proficiency in Python-based data analysis and storytelling using visualization.
-

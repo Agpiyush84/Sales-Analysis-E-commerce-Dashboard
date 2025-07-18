@@ -89,7 +89,7 @@ _A few snapshots from the visual EDA are included in the Jupyter Notebook. Use t
 
 **Piyush Agarwal**  
 📧 agpiyush84@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/) _(Replace with your actual profile link)_
+🔗 [LinkedIn](https://www.linkedin.com/in/agpiyush84/)
 
 ---
 

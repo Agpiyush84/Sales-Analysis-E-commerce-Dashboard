@@ -31,7 +31,7 @@ The final dashboard and plots were designed to communicate the most important bu
 
 - `sales_analysis.ipynb` – Jupyter Notebook with full EDA and visualizations
 - `superstore_sales.xlsx` – Cleaned sales data used for analysis
-- `presentation_link` – (Add your Google Slides or PowerPoint link here if public)
+- `README.md` – Project documentation
 
 ---
 
